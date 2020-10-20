@@ -1,0 +1,36 @@
+A construção de um algoritmo passa pelas seguintes fases:
+
+ 
+
+Fase 1- Defina bem o problema a ser resolvido;
+
+Fase 2- Entenda os detalhes do problema;
+
+Fase 3- Defina os dados de entrada que serão lidos pelo algoritmo;
+
+Fase 4- Defina os dados de saída que serão produzidos pelo algoritmo;
+
+Fase 5- Defina o processamento, ou seja, os cálculos e os comandos necessários para executar as tarefas e resolver o problema;
+
+Fase 6- Construa o Algoritmo.
+
+ 
+
+A norma internacional ISO 5807:1985(E) regulamenta a construção de algoritmos por meio de diagramas e fluxogramas. Já a construção por meio de texto é baseada na Program Design Language (PDL) que, no Brasil, é conhecido como português estruturado ou Portugol. Seguindo as fases acima, codifique um programa na Linguagem C, que implemente os algoritmos conforme a especificação descrita a seguir:
+
+Ler um conjunto de números inteiros, positivos e diferentes de zero.
+Ao ler um zero o processo de leitura termina.
+Para cada número lido, verificar se é par ou ímpar.
+Os números pares devem ser armazenados num vetor com capacidade para 10 elementos.
+Os números ímpares devem ser armazenados num vetor com capacidade para 10 elementos.
+Os números que não puderem ser amazenados (vetor cheio) serão desprezados.
+Dar uma mensagem indicando que o número foi desprezado e o motivo (vetor cheio).
+Para cada número armazenado indicar o número, e em que posição foi armazenado no respectivo vetor.
+Ao final da leitura imprimir:
+a quantidade de elementos em cada vetor.
+o conteúdo dos dois vetores.
+o total de números lidos.
+o total de números desprezados.
+o total de números armazenados.
+o total de números pares armazenados.
+o total de números ímpares armazenados.
